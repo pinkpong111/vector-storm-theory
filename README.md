@@ -1,7 +1,7 @@
 # Vector Storm Theory
 ### Instability Dynamics in Multi-Agent Systems
 
-> **Companion theory to** [Deficit-Driven Fractal Governance (DDFG)](../README.md)
+> **Companion theory to**  deficit-fractal-governance
 > Recovery and prediction are addressed in separate documents.
 
 ---
