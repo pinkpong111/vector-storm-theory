@@ -236,6 +236,7 @@ This model operates under the following simplifying assumptions:
 | 8 | Hub vulnerability increases propagation speed and reach. |
 | 9 | Layered mediation reduces amplification probability. |
 | 10 | Accumulated instability increases long-term correction cost. |
+| 11 | The lowest fractal layer always retains a residual degradation state. This floor is structural, not a capability gap, and defines the lower bound of achievable system stability. Zero-storm is not a valid design target. |
 
 > These assumptions abstract away heterogeneity, nonlinearity, and blurred boundaries present in real systems.
 
