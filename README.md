@@ -602,7 +602,7 @@ This theory identifies conceptual correspondences with established dynamical sys
 | Vector Storm | Chaotic regime / Basin boundary collision | Instability at the boundary between competing basins |
 | Stability shift | Bifurcation | Qualitative change in system behavior at a critical parameter |
 | Degradation capacity | Basin containment capacity | Size and robustness of attractor basin |
-| Self-correction | Lyapunov stability | Tendency to return to equilibrium after perturbation |
+| Self-correction | Asymptotic return tendency (cf. Lyapunov stability) | Tendency to return toward equilibrium after perturbation; used here as a structural analogue without assuming differentiability |
 | Attracting | Basin of attraction | Capture of trajectories into structured orbit |
 | Distracting | Repelling dynamics / basin escape | Dissolution of misaligned trajectories away from attractor |
 | Global exploration | Ergodicity | Eventual coverage of full state space over time |
@@ -793,6 +793,13 @@ Design target: **keep storms localized, degradable, and non-recursive** while pr
 **What happens after a Vector Storm:**
 
 A system that has experienced a full Vector Storm often enters a post-storm state with reduced diversity and degraded containment capacity. The contamination problem (Section 2.4) means that affected agents cannot generally undo the damage — their accumulated vector spaces carry structural traces of the storm. Degradation capacity must be rebuilt through one of three paths (suppression, isolation+relearning, or gradual dilution) before re-expansion can safely occur. These recovery pathways are addressed in detail in the Recovery Theory document.
+
+> **Governance is not the absence of storm.**
+> **It is the capacity to grow through it.**
+
+---
+
+*This theory draws on cross-domain synthesis across organizational theory, immune system dynamics, and complex systems science.*
 
 > **Governance is not the absence of storm.**
 > **It is the capacity to grow through it.**
